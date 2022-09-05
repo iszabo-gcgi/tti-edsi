@@ -1,0 +1,22 @@
+{
+    "name": "iszabo-gcgi/tti-edsi",
+    "description": "Core functionality for CST on TTI Base",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "TTI Group",
+            "email": "malba@gcgiglobal.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+  "require-dev": {
+    "wp-coding-standards/wpcs": "^1.0"
+  },
+    "autoload": {
+        "psr-4": {
+            "iszabo-gcgi\\": "src/"
+        }
+    }
+}
