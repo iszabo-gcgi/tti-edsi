@@ -21,4 +21,4 @@ wp-content/themes/twenty*/
 *.log
 *.sql
 *.sqlite
-*.coffee
+Gruntfile.coffee
